@@ -86,11 +86,11 @@ El bot tiene acceso a estas funciones:
 
 El tab "Insights Automáticos" genera un reporte ejecutivo detectando:
 
-- **Anomalías:** Cambios drásticos >10% semana a semana
-- **Tendencias preocupantes:** Deterioro sostenido 3+ semanas
-- **Benchmarking:** Zonas que divergen de su grupo (z-score)
-- **Correlaciones:** Relaciones entre métricas (Pearson ≥0.5)
-- **Oportunidades:** Zonas con fuerte crecimiento en órdenes
+- **Anomalías:** 
+- **Tendencias preocupantes:** 
+- **Benchmarking:** 
+- **Correlaciones:**
+- **Oportunidades:** 
 
 ## Limitaciones
 
