@@ -1,6 +1,0 @@
-streamlit>=1.35.0
-pandas>=2.0.0
-plotly>=5.20.0
-openai>=1.30.0
-markdown>=3.5.0
-python-dotenv>=1.0.0
