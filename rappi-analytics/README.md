@@ -1,4 +1,4 @@
-# Rappi Analytics — Bot Conversacional de Métricas
+# Bot Conversacional de Métricas
 
 Bot + insights automáticos para métricas operacionales de Rappi en LATAM.
 
@@ -23,10 +23,6 @@ streamlit run app.py
 
 Se abre en `http://localhost:####`. Dos tabs: bot conversacional e insights automáticos.
 
-**Ejemplos de preguntas:**
-- "¿Cuáles son las 5 zonas con mayor Lead Penetration esta semana?"
-- "Compara el Perfect Order entre Wealthy y Non Wealthy en México"
-- "Muestra la evolución de Gross Profit en Chapinero últimas 8 semanas"
 
 Output con texto + gráficos automáticos cuando aplica.
 
