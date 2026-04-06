@@ -112,13 +112,6 @@ Si tuviera más tiempo:
 - Explicabilidad (mostrar SQL/Pandas equivalente)
 - Integración con Slack
 
-## Demo
-
-### Bot Conversacional
-![Demo bot](screenshots/demo-bot.png)
-
-### Insights Automáticos
-![Demo insights](screenshots/demo-insights.png)
 
 ## Autor
 
