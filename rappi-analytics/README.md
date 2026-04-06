@@ -45,7 +45,7 @@ OPENAI_API_KEY=tu-api-key-aqui
 streamlit run app.py
 ```
 
-Se abre automáticamente en `http://localhost:8501`
+Se abre automáticamente en `http://localhost:####`
 
 ## Estructura del Proyecto
 
