@@ -1,4 +1,4 @@
-# Rappi Analytics — Bot Conversacional de Métricas
+# Bot Conversacional de Métricas
 
 Bot + insights automáticos para métricas operacionales de Rappi en LATAM.
 
