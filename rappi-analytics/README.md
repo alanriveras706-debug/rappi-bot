@@ -26,3 +26,4 @@ Se abre en `http://localhost:####`. Dos tabs: bot conversacional e insights auto
 
 Output con texto + gráficos automáticos cuando aplica.
 
+Fernando Rivera
